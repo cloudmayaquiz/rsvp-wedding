@@ -16,3 +16,4 @@
 | Maxibon           | 5 	    |
 | Maya Malabon      | 230           |
 | Pancit Tarlac	    | 190           |
+| Lutong Kapampangan| 56            |
