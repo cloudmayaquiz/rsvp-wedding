@@ -62,4 +62,6 @@ Alternatively, you can manually create a pull request by clicking on the pull re
 7. Github, by default, puts the message of the latest commit as the title of the pull request. Update the title to something more descriptive of the change. 
 The description of the pull request is already filled with a template message (this template comes from the content of a markdown file at `docs/pull_request_template.md`. If such a file exists, Github uses it as a template for all the pull requests created from a branch to the main branch). Ensure all the requirements outlined in the checkboxes are met. 
 
-Complete the creation of this pull request!
+```
+You now completed the creation of Pull Request! :PR:
+```
