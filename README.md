@@ -39,12 +39,9 @@ git checkout -b rsvp-yourname
 
 6. Commit your changes for Git to track. Put a message describing the change for your commit.
 
-```
-git add .
-```
 
 ```
-git commit -m "Pangalan ko at kasama ang buong Barangay"
+git commit -m "Pangalan ko at kasama ang buong Barangay" (OPTIONAL: --set-upstream )
 ```
 
 7. Push your changes to the forked repository in your GitHub account.
