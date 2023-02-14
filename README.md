@@ -1,7 +1,7 @@
-# Elizabeth & Philip
-Elizabeth and Philip are inviting everyone to their wedding! They would like all the guests to RSVP to their wedding by adding their names to the list of the guests in this repository.
+# Kapre and Aswang
+Kapre and Aswang are inviting everyone to their wedding! They would like all the guests to RSVP to their wedding by adding their names to the list of the guests in this repository.
 
-Let Elizabeth and Philip know if you can make it to their wedding by following the instructions!
+Let Kapre and Aswang know if you can make it to their wedding by following the instructions!
 
 ## How to RSVP
 
@@ -22,13 +22,13 @@ Let Elizabeth and Philip know if you can make it to their wedding by following t
 Run the following command in your terminal. Replace the address with the address of the forked repository on your GitHub account. 
 
 ```
-git clone git@github.com:Codecademy/wedding-rsvp-off-platform-project.git
+git clone git@github.com:cloudmayaquiz/rsvp-wedding.git
 ```
 
 3. Change your current directory of the terminal to the directory of the repository.
 
 ```
-cd wedding-rsvp-off-platform-project
+cd rsvp-wedding
 ```
 
 4. Create a new branch and name it `rsvp-[yourname]`. Run following command to create the new branch and also change the current working branch of the local repository to the newly created branch.
@@ -42,7 +42,11 @@ git checkout -b rsvp-yourname
 6. Commit your changes for Git to track. Put a message describing the change for your commit.
 
 ```
-git commit -m "Added my name to the list of guests."
+git add .
+```
+
+```
+git commit -m "Pangalan ko at kasama ang buong Barangay"
 ```
 
 7. Push your changes to the forked repository in your GitHub account.
