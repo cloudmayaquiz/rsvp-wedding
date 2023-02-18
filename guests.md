@@ -17,3 +17,6 @@
 | Maya Malabon      | 230           |
 | Pancit Tarlac	    | 190           |
 | Lutong Kapampangan| 56            |
+| Enrique Sanchez   | 10            |
+| Lalah             | 24            |
+>>>>>>> e0d7bfe (Pangala ko at kasama ang buong Barangay)
