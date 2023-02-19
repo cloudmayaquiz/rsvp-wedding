@@ -18,4 +18,5 @@
 | Pancit Tarlac      | 190              |
 | Lutong Kapampangan | 56               |
 | Enrique Sanchez    | 10               |
+| lalah              | 35               | 
 | Jojo Eustaquio     | 1                |
